@@ -1,2 +1,2 @@
 # Aws-practical-implementation
-A codebase of all the AWS work used through AWS courses.
+A codebase of all the AWS examples used through AWS courses.

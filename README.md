@@ -1,2 +1,2 @@
 # Aws-practical-implementation
-Hand on labs basically for real world implementation of aws knowledge 
+A codebase of all the AWS work used through AWS courses.
